@@ -1,3 +1,43 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "559059764327",
+    "firebase_url": "https://crashreport-10f66.firebaseio.com",
+    "project_id": "crashreport-10f66",
+    "storage_bucket": "crashreport-10f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559059764327:android:dcccaff6551fcdb8",
+        "android_client_info": {
+          "package_name": "com.sindenet.firebase.report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559059764327-2id8k1ou078cbvui31k4fa0jsvpijj9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7cCXLnTqPy7N9P9obrwtYRNq9MwL6lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+  "apply plugin": "com.google.gms.google-services"
 }
